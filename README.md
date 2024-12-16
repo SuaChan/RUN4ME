@@ -265,3 +265,5 @@
     </script>
 </body>
 </html>
+
+background-image: url('images/배경.png');
